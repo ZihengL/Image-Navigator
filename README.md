@@ -1,3 +1,7 @@
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-UI-4796FC?style=for-the-badge&logo=java)
+![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
 # Image Manipulation Application
 
 ## Project Overview
