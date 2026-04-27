@@ -8,9 +8,6 @@ of this project was to design, implement, and integrate a multitude of software 
 cohesive, functional application to ensure maintainability, low coupling, and scalability.
 
 ![Demo](./docs/ImageNavigator_Demo.gif)
-<div style="text-align: center;">
-  Demo gif
-</div>
 
 ## Features
 * **Independent Viewports:** The application features two distinct image navigation viewports alongside a thumbnail overview.
@@ -20,9 +17,6 @@ cohesive, functional application to ensure maintainability, low coupling, and sc
 * **Command History:** The application maintains a history of actions, supporting robust undo and redo capabilities.
 
 ![Class Diagrams](./docs/ClassDiagram.gif)
-<div style="text-align: center;">
-  Complete Class Diagram
-</div>
 
 ## Architecture and Design Patterns
 The system is structured upon the Model-View-Controller (MVC) architectural pattern. The user interface is built using 
